@@ -6,17 +6,13 @@ using System.Web.Mvc;
 
 namespace ComicBookApp.Controllers
 {
-    public class ComicBooksController : Controller
+    public class HomeController : Controller
     {
         public ActionResult Index()
         {
-            if (DateTime.Today.DayOfWeek == DayOfWeek.Saturday)
-            {
-                return new RedirectResult("/");
-            }
             return new ContentResult()
             {
-                Content = "Hello from ComicBook Detail page!"
+                Content = "Hello from Homepage!"
             };
         }
     }

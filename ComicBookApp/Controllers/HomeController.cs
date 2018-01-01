@@ -10,10 +10,7 @@ namespace ComicBookApp.Controllers
     {
         public ActionResult Index()
         {
-            return new ContentResult()
-            {
-                Content = "Hello from Homepage!"
-            };
+            return View();
         }
     }
 }

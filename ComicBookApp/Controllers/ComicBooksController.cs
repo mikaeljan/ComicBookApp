@@ -8,16 +8,9 @@ namespace ComicBookApp.Controllers
 {
     public class ComicBooksController : Controller
     {
-        public ActionResult Index()
+        public ActionResult Detail()
         {
-            if (DateTime.Today.DayOfWeek == DayOfWeek.Saturday)
-            {
-                return new RedirectResult("/");
-            }
-            return new ContentResult()
-            {
-                Content = "Hello from ComicBook Detail page!"
-            };
+            return View();
         }
     }
 }

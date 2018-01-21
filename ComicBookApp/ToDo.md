@@ -1,8 +1,8 @@
 ﻿## Taking the Website Further
 If you’d like to continue working on the Comic Book Gallery website, here are step by step instructions for extending the website with the following features.
 
-1. Add Series List and Detail Views
-2. Add a Tweet Button to the Detail View
+1. (Add Series List and Detail Views)[http://emails.teamtreehouse.com/track/click/30087866/github.com?p=eyJzIjoic2tvcFFweXlfQWhMMDdfSlhaQUVaenRCOXRjIiwidiI6MSwicCI6IntcInVcIjozMDA4Nzg2NixcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2dpdGh1Yi5jb21cXFwvdHJlZWhvdXNlLXByb2plY3RzXFxcL2FzcG5ldC1jb21pYy1ib29rLWdhbGxlcnlcXFwvdHJlZVxcXC9tYXN0ZXJcXFwvd2Fsa3Rocm91Z2hzXFxcL2FkZC1zZXJpZXMtbGlzdC1hbmQtZGV0YWlsLXZpZXdzXCIsXCJpZFwiOlwiMzk0NGIzNjZkYmUxNDg4YWIxZDI3NDYxYmUzZGVkZmFcIixcInVybF9pZHNcIjpbXCJmYWQ3NjI3ZmIzZDk2NTA4ODIxNzBkOGQ5NDJiMmIyMDA0NWE4ZDAxXCJdfSJ9]
+2. (Add a Tweet Button to the Detail View)[http://emails.teamtreehouse.com/track/click/30087866/github.com?p=eyJzIjoieEpYY3k2cVBRdE0xdTBpSTBBWlJxbmlsT3VZIiwidiI6MSwicCI6IntcInVcIjozMDA4Nzg2NixcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2dpdGh1Yi5jb21cXFwvdHJlZWhvdXNlLXByb2plY3RzXFxcL2FzcG5ldC1jb21pYy1ib29rLWdhbGxlcnlcXFwvdHJlZVxcXC9tYXN0ZXJcXFwvd2Fsa3Rocm91Z2hzXFxcL2FkZC1hLXR3ZWV0LWJ1dHRvbi10by10aGUtZGV0YWlsLXZpZXdcIixcImlkXCI6XCIzOTQ0YjM2NmRiZTE0ODhhYjFkMjc0NjFiZTNkZWRmYVwiLFwidXJsX2lkc1wiOltcIjBiYmU2MTNiZjA5ODYxMWQzMzVmYjNkYjdhNjJhZmVmOGU1Yjk5ODRcIl19In0]
 
 ## Additional Project Ideas
 There’s no better way to solidify your newly aquired ASP.NET MVC skills than to practice! If you’re struggling to come up with an idea for a project, how about building a web version of the Fitness Frog application from the C# Basics course? Or how about a website that utilizes the bird data from the Querying with LINQ course?
